@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "bigboystructures",
+  "version": "0.0.4-1.17.1",
+  "name": "bigboystructures",
+  "description": "Extends the limit of structure block to 512x512x512",
+  "authors": [
+    "kyrptonaught"
+  ],
+  "contact": {
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/bigboystructures",
+    "sources": "https://github.com/kyrptonaught/bigboystructures"
+  },
+  "license": "MIT",
+  "icon": "assets/bigboystructures/icon.png",
+  "environment": "*",
+  "mixins": [
+    {
+      "config": "bigboystructures.mixins.json",
+      "environment": "*"
+    }
+  ]
+}
