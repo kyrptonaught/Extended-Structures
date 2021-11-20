@@ -5,6 +5,7 @@
   "mixins": [
     "StructureBlockEntityMixin",
     "StructureBlockEntityRendererMixin",
+    "StructureMixin",
     "UpdateStructureBlockPacketMixin"
   ],
   "injectors": {
