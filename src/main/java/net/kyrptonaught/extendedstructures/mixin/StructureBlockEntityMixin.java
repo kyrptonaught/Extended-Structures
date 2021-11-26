@@ -1,4 +1,4 @@
-package net.kyrptonaught.bigboystructures.mixin;
+package net.kyrptonaught.extendedstructures.mixin;
 
 import net.minecraft.block.entity.StructureBlockBlockEntity;
 import net.minecraft.util.math.MathHelper;

@@ -1,4 +1,4 @@
-package net.kyrptonaught.bigboystructures.mixin;
+package net.kyrptonaught.extendedstructures.mixin;
 
 
 import net.minecraft.entity.EntityType;
