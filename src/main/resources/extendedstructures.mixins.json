@@ -1,6 +1,6 @@
 {
   "required": true,
-  "package": "net.kyrptonaught.bigboystructures.mixin",
+  "package": "net.kyrptonaught.extendedstructures.mixin",
   "compatibilityLevel": "JAVA_16",
   "mixins": [
     "StructureBlockEntityMixin",

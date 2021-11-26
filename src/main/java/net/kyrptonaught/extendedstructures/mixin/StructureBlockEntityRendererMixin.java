@@ -1,4 +1,4 @@
-package net.kyrptonaught.bigboystructures.mixin;
+package net.kyrptonaught.extendedstructures.mixin;
 
 import net.minecraft.client.render.block.entity.StructureBlockBlockEntityRenderer;
 import org.spongepowered.asm.mixin.Mixin;
